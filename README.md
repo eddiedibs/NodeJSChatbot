@@ -1,6 +1,6 @@
 # NodeJSChatbot
 
-NodeJSChatbot is a BuilderBot chatbot built using TypeScript and the Baileys provider to interact with WhatsApp. This bot is designed to provide automated responses, process user queries, and handle various chatbot functionalities efficiently.
+NodeJSChatbot is a BuilderBot chatbot built using TypeScript and the Baileys provider to interact with clients in WhatsApp. This bot is designed to provide automated responses, process user queries, and handle various chatbot functionalities efficiently.
 
 ## Requirements
 
@@ -48,10 +48,6 @@ Follow these steps to install and set up BuilderBot:
 - Handles automated responses
 - Supports TypeScript for better maintainability
 - Scalable and easy to extend
-
-## Configuration
-
-To configure the bot, modify the `config.ts` file with your Baileys provider settings and authentication details.
 
 ## Contributing
 
